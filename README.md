@@ -1,4 +1,4 @@
-# Time-Series Forecasting of Air Pollutants
+# Time-Series Forecasting of Carbon Monoxide (CO) and Nitrogen Dioxide (NO₂) Levels
 
 This project predicts daily/hourly levels of CO(GT) and NO₂(GT) using machine learning and time-series models.
 
