@@ -8,12 +8,12 @@ This project predicts daily/hourly levels of CO(GT) and NO₂(GT) using machine 
 3. [Dataset Description](#dataset-description)
 4. [Data Preprocessing](#data-preprocessing)
 5. [EDA](#eda)
-6. [Feature Engineering](#feature engineering)
+6. [Feature Engineering](#feature-engineering)
 7. [Modeling](#modeling)
-  - [ARIMA for CO(GT)](#ARIMA for CO(GT))
-  - [Random Forest for NO₂(GT)](#random forest for NO₂(GT))
-8.[Evaluation Metrics](#evaluation metrics)
-9.[Results and Insights](#results and insights)
+  - [ARIMA for CO(GT)](#ARIMA-for-c-(gt))
+  - [Random Forest for NO₂(GT)](#random-forest-for-no₂-(gt))
+8. [Evaluation Metrics](#evaluation-metrics)
+9. [Results and Insights](#results-and-insights)
 
 ## Introduction
 Forecasting air pollution levels is critical for public health and environmental monitoring. This project focuses on modeling time-series data to predict CO and NO₂ levels.
