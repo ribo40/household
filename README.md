@@ -27,3 +27,20 @@ Forecasting air pollution levels is critical for public health and environmental
   - `Time`: Time of observation.
   - `CO(GT)`: Ground Truth hourly average of CO in mg/m³.
   - `NO₂(GT)`: Ground Truth hourly average of NO₂ in µg/m³.
+
+## Data Preprocessing
+
+1. Combined `Date` and `Time` into a `datetime` index
+2. Resampled data to hourly means
+3. Interpolated missing values
+4. Removed outliers using the IQR method
+
+## Exploratory Data Analysis (EDA)
+
+- Historical trends of CO and NO₂ levels
+- Correlation analysis
+- Seasonality patterns (hourly, daily, weekly)
+
+## Feature Engineering
+- Created lag features for time-series dependency
+- Added time-based features (hour, day of the week, month)
