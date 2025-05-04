@@ -13,9 +13,9 @@ This project predicts daily/hourly levels of CO(GT) and NO₂(GT) using machine 
 ## Introduction
 Forecasting air pollution levels is critical for public health and environmental monitoring. This project focuses on modeling time-series data to predict CO and NO₂ levels.
 ## Project Workflow
-1.Data Preprocessing
-2.Exploratory Data Analysis (EDA)
-3.Feature Engineering
-4.Model Building
-5.Evaluation
-6.Visualization and Reporting
+1. Data Preprocessing
+2. Exploratory Data Analysis (EDA)
+3. Feature Engineering
+4. Model Building
+5. Evaluation
+6. Visualization and Reporting
