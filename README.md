@@ -19,3 +19,11 @@ Forecasting air pollution levels is critical for public health and environmental
 4. Model Building
 5. Evaluation
 6. Visualization and Reporting
+## Dataset Description
+
+- **Source:** [Provide the source of your dataset]
+- **Features:**
+  - `Date`: Date of observation.
+  - `Time`: Time of observation.
+  - `CO(GT)`: Ground Truth hourly average of CO in mg/m³.
+  - `NO₂(GT)`: Ground Truth hourly average of NO₂ in µg/m³.
