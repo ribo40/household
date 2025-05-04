@@ -10,8 +10,8 @@ This project predicts daily/hourly levels of CO(GT) and NO₂(GT) using machine 
 5. [EDA](#eda)
 6. [Feature Engineering](#feature-engineering)
 7. [Modeling](#modeling)
-    - [ARIMA for CO(GT)](#arima-for-co-(gt))
-    - [Random Forest for NO₂(GT)](#random-forest-for-no₂-(gt))
+    - [ARIMA for CO(GT)](#arima-for-cogt)
+    - [Random Forest for NO₂(GT)](#random-forest-for-no₂gt)
 8. [Evaluation Metrics](#evaluation-metrics)
 9. [Results and Insights](#results-and-insights)
 
