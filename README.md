@@ -44,3 +44,15 @@ Forecasting air pollution levels is critical for public health and environmental
 ## Feature Engineering
 - Created lag features for time-series dependency
 - Added time-based features (hour, day of the week, month)
+
+## Modeling
+
+### ARIMA for CO(GT)
+
+- Used ARIMA to capture time-series dependency for CO levels
+- Tuned hyperparameters for optimal performance
+
+### Random Forest for NO₂(GT)
+
+- Incorporated external predictors and lag features
+- Evaluated feature importance
